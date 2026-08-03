@@ -1,3 +1,9 @@
+### 👨‍💻 About Me
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mshaheek17-glitch&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="100%" alt="Contribution Activity Graph" />
+</div>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MOHAMMED shaheek) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohammed Shaheek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mshaheek17@gmail.com) 
